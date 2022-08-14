@@ -18,6 +18,9 @@ a {
     color: #333;
 }
 
+.grey {
+    color: #333;
+}
 .container {
     max-width: auto;
     margin: auto;
@@ -55,6 +58,7 @@ a {
 
 .navbar h1{
     color: hotpink;
+    font-size: 24px;
 }
 
 .search {
@@ -111,7 +115,23 @@ a {
     display: none;
 }
 /*nav bar end*/
-
+/*sort bar*/
+.sort-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    color: #5e5e5e;
+}
+.sort-bar div {
+    text-align: center;
+}
+.sort-bar i {
+    font-size: 1.2rem;
+}
+.sort-bar p {
+    font-size: 12px;
+}
+/*sort bar*/
 @media screen and (max-width:940px) {
     .top-bar {
         display: flex;
@@ -133,7 +153,7 @@ a {
     }
     .nav-menu {
         position: fixed;
-        left: 0;
+        left: -100%;
         background-color: #eee;
         flex-direction: column;
         top: 80px;
