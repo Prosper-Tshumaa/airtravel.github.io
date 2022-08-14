@@ -1,10 +1,10 @@
 <div align="center">
   
-  <h2 align="center">Glowing - eCommerce Website</h2>
+  <h2 align="center">Simple Airtravel site</h2>
 
-  Glowing is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ fully responsive airtravel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/glowing/"><strong>➥ Live Demo</strong></a>
+  <a href="https://prosper-tshumaa.github.io/airtravel.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -12,7 +12,9 @@
 
 ### Demo Screeshots
 
-![Glowing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![AirTravel Desktop Demo](./readme-images/screenshot(76).png "Desktop Demo")
+![AirTravel Desktop Demo](./readme-images/screenshot(77).png "Desktop Demo")
+![AirTravel Desktop Demo](./readme-images/screenshot(78).png "Desktop Demo")
 
 ### Prerequisites
 
@@ -22,23 +24,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Glowing** locally, run this command on your git bash:
+To run **Airtravel** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/glowing.git
+sudo git clone https://github.com/Prosper-Tshumaa/airtravel.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/glowing.git
+git clone https://github.com/Prosper-Tshumaa/airtravel.github.io.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/executioner.senpai/).
 
 ### License
 
