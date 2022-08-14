@@ -10,12 +10,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![AirTravel Desktop Demo](/images/Screenshot(76).png "Desktop Demo")
-![AirTravel Desktop Demo](/images/Screenshot(77).png "Desktop Demo")
-![AirTravel Desktop Demo](/images/Screenshot(78).png "Desktop Demo")
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
