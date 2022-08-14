@@ -12,9 +12,9 @@
 
 ### Demo Screeshots
 
-![AirTravel Desktop Demo](./readme-images/screenshot(76).png "Desktop Demo")
-![AirTravel Desktop Demo](./readme-images/screenshot(77).png "Desktop Demo")
-![AirTravel Desktop Demo](./readme-images/screenshot(78).png "Desktop Demo")
+![AirTravel Desktop Demo](./readme-images/Screenshot(76).png "Desktop Demo")
+![AirTravel Desktop Demo](./readme-images/Screenshot(77).png "Desktop Demo")
+![AirTravel Desktop Demo](./readme-images/Screenshot(78).png "Desktop Demo")
 
 ### Prerequisites
 
